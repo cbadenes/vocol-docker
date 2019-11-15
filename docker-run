@@ -1,0 +1,1 @@
+docker run --name vocol -d -p 8087:80 cbadenes/vocol:1.0
